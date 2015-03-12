@@ -1,14 +1,14 @@
 <?php
   # Variables used through the site
-  $siteName = "Arlington Visual Budget";
-  $siteURL = "arlingtonvisualbudget.org";
-  $municipalURL = "http://town.arlington.ma.us";
-  $feedbackEmail = "arlington-internal@goinvo.com";
-  $shortName = "Arlington";
-  $longName = "Town of Arlington";
-  $state = "Massachusetts";
-  $stateAbbreviation = "MA";
-  $gaKey = "UA-10273473-12";
+  $siteName = "City of Sumter Visual Budget";
+  $siteURL = "budget.sumtersc.gov";
+  $municipalURL = "http://www.sumtersc.gov";
+  $feedbackEmail = "info@udhaa.com";
+  $shortName = "Sumter";
+  $longName = "City of Sumter";
+  $state = "South Carolina";
+  $stateAbbreviation = "SC";
+  $gaKey = "";
 
   # Variables for update.php
   $user = 'admin';
